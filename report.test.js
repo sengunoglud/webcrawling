@@ -2,7 +2,7 @@ const { SortPages} = require("./report.js")
 const { test, expext } = require("@jest/globals")
 
 
-test("sortPages", function() {
+test("sortPages 2 pages", function() {
     const input = {
         'https://wagslane.dev/path' : 1,
         'https://wagslane.dev' : 3
