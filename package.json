@@ -1,0 +1,15 @@
+{
+  "name": "deneme",
+  "version": "1.0.0",
+  "description": "http web crawling project",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "diloska",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
